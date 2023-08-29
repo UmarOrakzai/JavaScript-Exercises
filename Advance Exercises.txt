@@ -1,0 +1,59 @@
+----------------------------------------------------------------------------------------------------------
+
+
+			"Understand the problem give a proper Solution of it" 
+
+		NOTE: "Using ChatGPT & Internest or any other resources are prohibited"
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+Exercise 1: Deep Array Manipulation:
+Given an array of nested arrays, flatten it into a single array using recursion.
+
+Exercise 2: Complex Object Transformation:
+Take an array of objects containing information about books (title, author, genre, etc.) and transform it into an object where each key represents a genre, and the value is an array of books in that genre.
+
+Exercise 3: Custom Map Function:
+Implement your own version of the map function that mimics its behavior for arrays.
+
+Exercise 4: Complex Spread Operator Usage:
+Use the spread operator to deeply clone a nested array or object with multiple levels of nesting.
+
+Exercise 5: Chaining Operators:
+Write a function that takes an array of numbers, filters out the even ones, squares the remaining numbers, and then sums them up.
+
+Exercise 6: Deep Object Destructuring:
+Given a nested object, use destructuring to extract values from inner levels and assign them to variables.
+
+Exercise 7: Tricky Loop Logic:
+Write a loop that prints the Fibonacci sequence up to a specified number, handling the initial values differently.
+
+Exercise 8: Asynchronous Mapping:
+Given an array of URLs, use asynchronous operations to fetch data from each URL, process it, and return the results in an array.
+
+Exercise 9: Working with Prototypes:
+Create a custom constructor function with methods that can be accessed through prototype inheritance.
+
+Exercise 10: Advanced Short-Circuiting:
+Use short-circuiting and conditional operators to perform complex conditional assignments in a single line.
+
+Exercise 11: Advanced String Manipulation:
+Implement a function that takes a string and returns a new string where each word is reversed, but the order of the words remains the same.
+
+Exercise 12: Advanced Set Operations:
+Implement set operations like union, intersection, and difference without using built-in set methods.
+
+Exercise 13: Custom Operator Overloading:
+Create a custom operator that works on objects with numeric properties, performing a specific operation.
+
+Exercise 14: Complex Context Binding:
+Implement a function that allows you to bind a context to a given function while also currying additional arguments.
+
+
+----------------------------------------------------------------------------------------------------------
+
+After completing these excercises, Save each exercise in seperate Folder with name: (ex-1) upload it on Github, and submit your Github repo link.
+
+------------------------------------------------------------------------------------------------------------------

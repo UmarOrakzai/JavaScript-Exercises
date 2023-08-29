@@ -1,0 +1,57 @@
+------------------------------------------------------------------------------------------------------------------
+
+			"Understand the problem give a proper Solution of it" 
+
+		NOTE: "Using ChatGPT & Internest or any other resources are prohibited"
+
+------------------------------------------------------------------------------------------------------------------
+
+
+Exercise 1: Distracting Array:
+Create an array of your favorite movies and then add a new movie to the end.
+
+Exercise 2: Distracting Object:
+Create an object representing a person with properties like name, age, and occupation. Update the person's age.
+
+Exercise 3: Spread Operator:
+Use the spread operator to merge two arrays and create a new combined array.
+
+Exercise 4: Rest Operator:
+Write a function that takes multiple arguments and returns their sum using the rest operator.
+
+Exercise 5: Short-Circuiting:
+Write a function that checks if a given number is even and greater than 10. Use short-circuiting for efficiency.
+
+Exercise 6: All Types of Operators:
+Create a function that demonstrates the use of various types of operators, such as arithmetic, comparison, and logical operators.
+
+Exercise 7: Loops:
+Write a loop that prints the numbers from 1 to 10 using both for and while loops.
+
+Exercise 8: Enhanced Object:
+Create an enhanced object with computed property names and methods.
+
+Exercise 9: Sets:
+Create a set of your favorite colors and demonstrate adding, deleting, and checking for elements.
+
+Exercise 10: Mapping:
+Given an array of numbers, create a new array where each number is doubled.
+
+Exercise 11: Working with Strings:
+Write a function that takes a string and returns the string reversed.
+
+Exercise 12: Destructuring Objects:
+Given an object with properties name and age, use destructuring to assign them to variables.
+
+Exercise 13: Template Literals:
+Create a template literal that displays a person's name and age in a sentence.
+
+Exercise 14: Using Map:
+Given an array of numbers, use the map function to convert each number to its square.
+
+
+----------------------------------------------------------------------------------------------------------
+
+After completing these excercises, Save each exercise in seperate Folder with name: (ex-1) upload it on Github, and submit your Github repo link.
+
+------------------------------------------------------------------------------------------------------------------
