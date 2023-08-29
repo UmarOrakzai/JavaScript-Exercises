@@ -55,3 +55,5 @@ Given an array of numbers, use the map function to convert each number to its sq
 After completing these excercises, Save each exercise in seperate Folder with name: (ex-1) upload it on Github, and submit your Github repo link.
 
 ------------------------------------------------------------------------------------------------------------------
+
+Zaid Ullah
